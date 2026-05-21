@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user000@mod.com",
+      "password": "password123",
+      "name": "Competitor1 님",
+      "profileImage": "https://api.connexchat.com/images/profile/user000.jpg",
+      "createdAt": "2025-01-20T09:00:00Z"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "김지훈 대리",
+      "department": "개발팀",
+      "position": "대리",
+      "profileImage": "https://api.connexchat.com/images/profile/emp001.jpg"
+    },
+    {
+      "id": 2,
+      "name": "이서연 사원",
+      "department": "개발팀",
+      "position": "사원",
+      "profileImage": "https://api.connexchat.com/images/profile/emp002.jpg"
+    },
+    {
+      "id": 3,
+      "name": "박민수 과장",
+      "department": "개발팀",
+      "position": "과장",
+      "profileImage": "https://api.connexchat.com/images/profile/emp003.jpg"
+    },
+    {
+      "id": 4,
+      "name": "최유진 사원",
+      "department": "디자인팀",
+      "position": "사원",
+      "profileImage": "https://api.connexchat.com/images/profile/emp004.jpg"
+    },
+    {
+      "id": 5,
+      "name": "정우빈 팀장",
+      "department": "개발팀",
+      "position": "팀장",
+      "profileImage": "https://api.connexchat.com/images/profile/emp005.jpg"
+    },
+    {
+      "id": 6,
+      "name": "한지민 대리",
+      "department": "마케팅팀",
+      "position": "대리",
+      "profileImage": "https://api.connexchat.com/images/profile/emp006.jpg"
+    },
+    {
+      "id": 7,
+      "name": "서민재 사원",
+      "department": "인사팀",
+      "position": "사원",
+      "profileImage": "https://api.connexchat.com/images/profile/emp007.jpg"
+    },
+    {
+      "id": 8,
+      "name": "오세훈 대리",
+      "department": "영업팀",
+      "position": "대리",
+      "profileImage": "https://api.connexchat.com/images/profile/emp008.jpg"
+    },
+    {
+      "id": 9,
+      "name": "강하늘 과장",
+      "department": "기획팀",
+      "position": "과장",
+      "profileImage": "https://api.connexchat.com/images/profile/emp009.jpg"
+    }
+  ],
+  "chatrooms": [
+    {
+      "id": 1,
+      "roomName": "개발팀 기술 공유방",
+      "lastMessage": "채팅방 목록의 대화 내용입니다...",
+      "lastMessageTime": "오후 10:21",
+      "unreadCount": 0,
+      "participants": [1, 2, 3]
+    },
+    {
+      "id": 2,
+      "roomName": "디자인 협업 세션",
+      "lastMessage": "채팅방 목록의 대화 내용입니다...",
+      "lastMessageTime": "오후 10:21",
+      "unreadCount": 0,
+      "participants": [1, 4, 5]
+    },
+    {
+      "id": 3,
+      "roomName": "마케팅 전략 회의",
+      "lastMessage": "채팅방 목록의 대화 내용입니다...",
+      "lastMessageTime": "오후 10:21",
+      "unreadCount": 0,
+      "participants": [2, 3, 6]
+    }
+  ]
+}
